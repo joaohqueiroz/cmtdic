@@ -28,7 +28,7 @@
         "miloschuman/yii2-highcharts-widget": "^8.0",
         "onmotion/yii2-widget-apexcharts": "*",
         "yiisoft/yii2-debug": "~2.1.0",
-        "yiisoft/yii2-gii": "~2.1.0",
+        "yiisoft/yii2-gii": "~2.2.5",
         "vlucas/phpdotenv": "^5.4"
     },
     "require-dev": {
